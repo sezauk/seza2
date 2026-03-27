@@ -319,7 +319,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-xs text-goldenrod/50 uppercase tracking-widest">
           <p>© 2026 SÉZA Inc Ltd. All rights reserved.</p>
           <div className="flex space-x-6">
-            <span>Powered by Shopify</span>
+            <span>Powered by SÉZA</span>
             <a href="#" className="hover:text-goldenrod transition-colors">Privacy Policy</a>
           </div>
         </div>
